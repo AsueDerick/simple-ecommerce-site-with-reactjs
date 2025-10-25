@@ -1,3 +1,9 @@
+
+<img width="2430" height="1068" alt="Screenshot from 2025-10-25 19-59-50" src="https://github.com/user-attachments/assets/a4210ba6-b0bf-4a37-b7b1-325394aa3719" />
+card sample
+<img width="1779" height="873" alt="Screenshot from 2025-10-25 20-02-38" src="https://github.com/user-attachments/assets/414f424c-78f8-45e0-a43c-cc00b4e42ae0" />
+
+
 # 🛒 Simple E-commerce Site with React.js
 
 A lightweight and modern **React.js** application that simulates an e-commerce shopping experience. This project demonstrates core React concepts such as **components**, **context API**, **reducers**, and **state management**, along with a responsive UI design.
